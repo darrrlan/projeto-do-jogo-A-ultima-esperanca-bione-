@@ -49,8 +49,7 @@ O progresso do jogador pode ser salvo e carregado, permitindo continuar a jornad
 
 ## 🎨 Créditos
 
-- Desenvolvido por [Seu Nome ou Equipe]
-- Sons e fontes utilizados são de domínio público ou devidamente licenciados.
+- Desenvolvido por Darlan Oliveira Santos
 
 ## 📄 Licença
 
